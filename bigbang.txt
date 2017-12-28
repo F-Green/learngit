@@ -5,3 +5,7 @@ huangyan
 loser
 
 fang dan shao nian tuan
+
+
+
+My stupid boss still prefers SVN.
